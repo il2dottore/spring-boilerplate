@@ -1,0 +1,4 @@
+com\springweb\chuyende\entities\User.class
+com\springweb\chuyende\JpaConfig.class
+com\springweb\chuyende\repositories\UserRepository.class
+com\springweb\chuyende\HelloController.class
