@@ -1,2 +1,1 @@
-# hmm-im-ok
-spwingmwcuwu
+# FPT Academy Test - Spring Boilerplate
